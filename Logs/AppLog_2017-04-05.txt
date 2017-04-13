@@ -1,0 +1,331 @@
+********
+* The Activity Log contains a detailed list of the steps the Evernote application performs,
+* as well as information about your account and your device. Your Note titles, tags,
+* Notebook names and occasionally Note content also may be included. We treat your
+* Activity Log data as confidential, and the terms of our Privacy Policy apply (http://evernote.com/privacy).
+*
+* You may remove anything you do not want to send us.
+********
+
+
+Log opened on 2017/04/05 15:32:01 (UTC+8:00)
+
+15:32:01 [206052] Command line: "C:\Program Files (x86)\Evernote\Evernote\Evernote.exe" 
+15:32:01 [206052] Evernote for Windows 6.5.3.4452 (304452) Prerelease
+15:32:01 [206052] Client info: Evernote Windows/304452 (zh-CN, DDL); Windows/10.0.14393 (Win64);
+15:32:01 [206052] Common Editor: ce-1.0.29.922-develop-win (141ba6c5a622871ba93376c18720ead2ea98b3d6)
+15:32:01 [206052] Bootstrap info: Evernote-China,Evernote (loadedLastUsed)
+15:32:03 [206052] Registered session count: 1, last session: 2017/04/05 15:30:00
+15:32:03 [206052] Set the service host to "app.yinxiang.com"
+15:32:03 [206052] Bootstrap info: Evernote-China,Evernote (loadedDatabase)
+15:32:03 [206052] Loaded session count: 0, last session: 2017/03/21 15:45:00
+15:32:03 [206052] CInAppMessageUpSellImpl::CInAppMessageUpSellImpl: UtilityStoreClient update begin
+15:32:03 [206052] 0% Connecting to app.yinxiang.com/shard/s58/utility
+15:32:03 [194792] 0% Connecting to app.yinxiang.com/edam/note/s58
+15:32:03 [194792] 0% Connecting account 654039269
+15:32:03 [206052] UpSell: TsdEligibility: Show:0 NewCheck:2017/04/06 15:32:03
+15:32:03 [206052] CInAppMessageUpSellImpl::CInAppMessageUpSellImpl: UtilityStoreClient update complete
+15:32:03 [194792] Sync rate configuration changed:
+15:32:03 [194792] * syncStateIntervalMillis=900000
+15:32:03 [194792] * updateNoteWhenIdleForMillis=30000
+15:32:03 [194792] * updateNoteDuringEditIntervalMillis=60000
+15:32:03 [206052] Opened database: C:\Users\shaoj\Evernote\Databases\654039269#app.yinxiang.com.exb (50.9 MB Fixed 54.2 GB free)
+15:32:03 [206052] * email: 654039269@qq.com
+15:32:03 [206052] * user: 11025798
+15:32:03 [206000] 0% Connecting to app.yinxiang.com/shard/s58/utility
+15:32:04 [206052] Communication Engine client handler failed to retrieve cached events from local data store
+15:32:04 [206920] 0% Connecting to app.yinxiang.com/edam/user
+15:32:04 [206920] Updating Premium account limits
+15:32:05 [206920] Premium account limits have been updated
+15:32:05 [206052] Registered session count: 1, last session: 2017/04/05 15:30:00
+15:32:07 [143304] Client synchronization started
+15:32:07 [205216] 0% Connecting account 654039269
+15:32:07 [205216] 0% Loaded updateCount: 3313
+15:32:07 [205216] 0% Usage Metrics: sessionCount=1
+15:32:07 [205216] 0% SyncState: devices used: 1
+15:32:07 [205216] 0% Client is up to date with the server, updateCount: 3313
+15:32:07 [205216] 0% Updating user "654039269"
+15:32:08 [205216] 0% * email last verified 2016/10/14 09:03:01 (UTC+8:00)
+15:32:08 [205216] 0% Retrieving cross promotion info for user "654039269"
+15:32:08 [205216] 0% Connecting account 654039269
+15:32:08 [205216] 0% Connecting account 654039269
+15:32:08 [143304] Client synchronization finished, status: complete
+15:32:08 [143304] * elapsed time: 1s
+15:34:03 [206892] Received status code 403 when accessing URL https://update.evernote.com/prerelease/ENWin6/ReleaseNotes_6.5.3.4452_zh-CN.html
+15:34:03 [206892] Requesting new credentials from the user
+15:34:03 [206892] InternetErrorDlg return code: 0
+15:34:03 [206892] Received status code 200 when accessing URL https://update.evernote.com/prerelease/ENWin6/ReleaseNotes_6.5.3.4452_en-us.html
+15:36:02 [209544] AutoUpdate: checking for update at: https://update.evernote.com/public/ENWin6/update.xml
+15:36:02 [209544] Received status code 200 when accessing URL https://update.evernote.com/public/ENWin6/update.xml
+15:36:02 [209544] AutoUpdate: located update with revision 304720 (local revision is 304452)
+15:36:02 [209544] AutoUpdate: checking for update at: https://update.evernote.com/prerelease/ENWin6/update.xml
+15:36:04 [209544] Received status code 200 when accessing URL https://update.evernote.com/prerelease/ENWin6/update.xml
+15:36:04 [209544] AutoUpdate: no update found, remote revision is the same as the local revision (304452)
+15:36:04 [209544] Received status code 403 when accessing URL https://update.evernote.com/prerelease/ENWin6/ReleaseNotes_6.5.3.4452_zh-CN.html
+15:36:04 [209544] Requesting new credentials from the user
+15:36:04 [209544] InternetErrorDlg return code: 0
+15:36:05 [209544] Received status code 200 when accessing URL https://update.evernote.com/prerelease/ENWin6/ReleaseNotes_6.5.3.4452_en-us.html
+15:36:05 [209544] AutoUpdate: selected update with revision 304720
+15:36:06 [209544] Received status code 200 when accessing URL https://update.evernote.com/public/ENWin6/ReleaseNotes_6.5.4.4720_zh-CN.html
+15:36:06 [209544] Evernote is installed PerMachine.
+15:36:06 [209544] User is an administrator
+15:37:08 [208544] Client synchronization started
+15:37:08 [209024] 0% Connecting to app.yinxiang.com/edam/note/s58
+15:37:08 [209024] 0% Connecting account 654039269
+15:37:08 [209024] 0% Loaded updateCount: 3313
+15:37:08 [209024] 0% Usage Metrics: sessionCount=0
+15:37:08 [209024] 0% SyncState: devices used: 1
+15:37:08 [209024] 0% Client is up to date with the server, updateCount: 3313
+15:37:08 [209024] 0% Connecting to app.yinxiang.com/edam/user
+15:37:08 [209024] 0% Updating user "654039269"
+15:37:08 [209024] 0% * email last verified 2016/10/14 09:03:01 (UTC+8:00)
+15:37:08 [209024] 0% Connecting to app.yinxiang.com/shard/s58/utility
+15:37:08 [209024] 0% Retrieving cross promotion info for user "654039269"
+15:37:08 [209024] 0% Connecting account 654039269
+15:37:08 [209024] 0% Connecting account 654039269
+15:37:08 [209024] 0% Updating server items
+15:37:08 [209024] 0% Creating server notebook "参考资料"
+15:37:08 [209024] 0% * guid={85c7dde6-4e1a-42b5-8e24-8349a2bcb199}
+15:37:08 [209024] 50% Creating server note "一、 为成为联盟冠军而奋斗吧", resource count: 0, content: 13.3 KB
+15:37:08 [209024] 50% * Notebook "参考资料", guid={85c7dde6-4e1a-42b5-8e24-8349a2bcb199}
+15:37:09 [209024] 50% * guid={a61410e6-56af-4c3d-96b4-30d545b9770a}
+15:37:09 [209024] 100% Connecting account 654039269
+15:37:09 [209024] 100% Loaded updateCount: 3313
+15:37:09 [209024] 100% Usage Metrics: sessionCount=0
+15:37:09 [209024] 100% SyncState: devices used: 1
+15:37:09 [209024] 100% Client updateCount: 3313, server updateCount: 3315
+15:37:09 [209024] 100% Retrieving list of changes from the server
+15:37:09 [209024] 0% * saved 1 sync chunks, updateCount=3315
+15:37:09 [209024] 0% Receiving account changes
+15:37:09 [209024] 0% * expunge 0 notebooks, 0 notes, 0 tags, 0 searches, 0 linked notebooks
+15:37:09 [209024] 0% * update 1 notebooks, 1 notes, 0 resources, 0 tags, 0 searches, 0 linked notebooks
+15:37:09 [209024] 0% Updating user "654039269"
+15:37:09 [209024] 0% * email last verified 2016/10/14 09:03:01 (UTC+8:00)
+15:37:09 [209024] 0% Retrieving cross promotion info for user "654039269"
+15:37:09 [209024] 0% Waiting for 1 base writer tasks
+15:37:09 [209828] 0% Synchronizing 1 notebook
+15:37:09 [209828] 100% Updating local notebook "参考资料"
+15:37:09 [209828] 100% * guid={85C7DDE6-4E1A-42B5-8E24-8349A2BCB199}
+15:37:09 [209024] 100% Waiting for 1 base writer tasks done
+15:37:09 [209024] 100% Submitting get 1 notes task
+15:37:09 [209024] 50% Waiting for 1 sync tasks
+15:37:09 [209832] 50% Retrieving 1 note
+15:37:09 [209832] 50% Retrieving note "一、 为成为联盟冠军而奋斗吧"
+15:37:09 [209832] 50% * guid={a61410e6-56af-4c3d-96b4-30d545b9770a}
+15:37:09 [209832] 100% Submitting 1 notes for writing
+15:37:09 [209832] 100% Waiting for 1 base writer tasks
+15:37:09 [209828] 100% Writing 1 notes
+15:37:09 [209832] 100% Waiting for 1 base writer tasks done
+15:37:09 [209024] 100% Done waiting for 1 sync tasks
+15:37:09 [209024] 100% Connecting account 654039269
+15:37:09 [209024] 100% Waiting for 1 sync tasks
+15:37:09 [209024] 100% Done waiting for 1 sync tasks
+15:37:09 [208544] Client synchronization finished, status: complete
+15:37:09 [208544] * elapsed time: 0s
+15:37:09 [208544] * 1 item received
+15:37:09 [208544] * 2 items sent
+15:40:55 [211240] Received status code 200 when accessing URL http://cdn1.evernote.com/win6/public/Evernote_6.5.4.4720.exe
+15:41:20 [211256] Evernote is installed PerMachine.
+15:41:20 [211256] User is an administrator
+15:41:45 [206052] Saved session count: 0, last session: 2017/04/05 15:30:00
+15:41:45 [206052] Closed database: C:\Users\shaoj\Evernote\Databases\654039269#app.yinxiang.com.exb (51.0 MB +120 KB)
+
+Log closed on 2017/04/05 15:41:45 (UTC+8:00)
+
+
+Log opened on 2017/04/05 15:42:39 (UTC+8:00)
+
+15:42:39 [200484] Command line: "C:\Program Files (x86)\Evernote\Evernote\Evernote.exe"
+15:42:39 [200484] Evernote for Windows 6.5.4.4720 (304720) Public
+15:42:39 [200484] Client info: Evernote Windows/304720 (zh-CN, DDL); Windows/10.0.14393 (Win64);
+15:42:39 [200484] Common Editor: ce-1.0.29.936-develop-win (37b21f0e0ce4cb64b49ea2234d305d4f61c18559)
+15:42:39 [200484] Bootstrap info: Evernote-China,Evernote (loadedLastUsed)
+15:42:39 [211772] Requesting bootstrap info from "app.yinxiang.com" (zh-CN)
+15:42:40 [211772] Bootstrap info: request to "app.yinxiang.com" returned profiles: Evernote-China,Evernote
+15:42:40 [211772] Bootstrap info: Evernote-China,Evernote (loadedFresh)
+15:42:40 [211772] Set the service host to "app.yinxiang.com"
+15:42:41 [200484] Registered session count: 1, last session: 2017/04/05 15:30:00
+15:42:41 [200484] Loaded session count: 0, last session: 2017/04/05 15:30:00
+15:42:41 [200484] Opened database: C:\Users\shaoj\Evernote\Databases\654039269#app.yinxiang.com.exb (51.0 MB Fixed 54.1 GB free)
+15:42:41 [200484] * email: 654039269@qq.com
+15:42:41 [200484] * user: 11025798
+15:42:41 [200484] * resource attributes table rebuilt
+15:42:42 [207316] Sync rate configuration changed:
+15:42:42 [207316] * syncStateIntervalMillis=900000
+15:42:42 [207316] * updateNoteWhenIdleForMillis=30000
+15:42:42 [207316] * updateNoteDuringEditIntervalMillis=60000
+15:42:45 [211980] Client synchronization started
+15:42:45 [211984] 0% Loaded updateCount: 3315
+15:42:46 [211984] 0% Usage Metrics: sessionCount=0
+15:42:46 [211984] 0% SyncState: devices used: 1
+15:42:46 [211984] 0% Client is up to date with the server, updateCount: 3315
+15:42:46 [211984] 0% Updating user "654039269"
+15:42:46 [211984] 0% * email last verified 2016/10/14 09:03:01 (UTC+8:00)
+15:42:46 [211984] 0% Retrieving cross promotion info for user "654039269"
+15:42:46 [211980] Client synchronization finished, status: complete
+15:42:46 [211980] * elapsed time: 0s
+15:44:40 [211080] Received status code 200 when accessing URL https://update.evernote.com/public/ENWin6/ReleaseNotes_6.5.4.4720_zh-CN.html
+15:47:46 [214412] Client synchronization started
+15:47:46 [214416] 0% Loaded updateCount: 3315
+15:47:46 [214416] 0% Usage Metrics: sessionCount=0
+15:47:46 [214416] 0% SyncState: devices used: 1
+15:47:46 [214416] 0% Client is up to date with the server, updateCount: 3315
+15:47:46 [214416] 0% Updating user "654039269"
+15:47:46 [214416] 0% * email last verified 2016/10/14 09:03:01 (UTC+8:00)
+15:47:46 [214416] 0% Retrieving cross promotion info for user "654039269"
+15:47:46 [214412] Client synchronization finished, status: complete
+15:52:46 [215528] Client synchronization started
+15:52:46 [215884] 0% Loaded updateCount: 3315
+15:52:47 [215884] 0% Usage Metrics: sessionCount=0
+15:52:47 [215884] 0% SyncState: devices used: 1
+15:52:47 [215884] 0% Client is up to date with the server, updateCount: 3315
+15:52:47 [215884] 0% Updating user "654039269"
+15:52:47 [215884] 0% * email last verified 2016/10/14 09:03:01 (UTC+8:00)
+15:52:47 [215884] 0% Retrieving cross promotion info for user "654039269"
+15:52:47 [215528] Client synchronization finished, status: complete
+15:52:47 [215528] * elapsed time: 0s
+15:57:47 [217956] Client synchronization started
+15:57:47 [217976] 0% Loaded updateCount: 3315
+15:57:47 [217976] 0% Usage Metrics: sessionCount=0
+15:57:47 [217976] 0% SyncState: devices used: 1
+15:57:47 [217976] 0% Client is up to date with the server, updateCount: 3315
+15:57:47 [217976] 0% Updating user "654039269"
+15:57:48 [217976] 0% * email last verified 2016/10/14 09:03:01 (UTC+8:00)
+15:57:48 [217976] 0% Retrieving cross promotion info for user "654039269"
+15:57:48 [217956] Client synchronization finished, status: complete
+15:57:48 [217956] * elapsed time: 0s
+16:02:48 [220660] Client synchronization started
+16:02:48 [220676] 0% Loaded updateCount: 3315
+16:02:48 [220676] 0% Usage Metrics: sessionCount=0
+16:02:48 [220676] 0% SyncState: devices used: 1
+16:02:48 [220676] 0% Client is up to date with the server, updateCount: 3315
+16:02:48 [220676] 0% Updating user "654039269"
+16:02:48 [220676] 0% * email last verified 2016/10/14 09:03:01 (UTC+8:00)
+16:02:48 [220676] 0% Retrieving cross promotion info for user "654039269"
+16:02:49 [220660] Client synchronization finished, status: complete
+16:02:49 [220660] * elapsed time: 1s
+16:07:49 [209040] Client synchronization started
+16:07:49 [221256] 0% Loaded updateCount: 3315
+16:07:49 [221256] 0% Usage Metrics: sessionCount=0
+16:07:49 [221256] 0% SyncState: devices used: 1
+16:07:49 [221256] 0% Client is up to date with the server, updateCount: 3315
+16:07:49 [221256] 0% Updating user "654039269"
+16:07:49 [221256] 0% * email last verified 2016/10/14 09:03:01 (UTC+8:00)
+16:07:49 [221256] 0% Retrieving cross promotion info for user "654039269"
+16:07:49 [209040] Client synchronization finished, status: complete
+16:12:51 [223992] Client synchronization started
+16:12:51 [223376] 0% Loaded updateCount: 3315
+16:12:51 [223376] 0% Usage Metrics: sessionCount=0
+16:12:51 [223376] 0% SyncState: devices used: 1
+16:12:51 [223376] 0% Client is up to date with the server, updateCount: 3315
+16:12:51 [223376] 0% Updating user "654039269"
+16:12:51 [223376] 0% * email last verified 2016/10/14 09:03:01 (UTC+8:00)
+16:12:51 [223376] 0% Retrieving cross promotion info for user "654039269"
+16:12:51 [223992] Client synchronization finished, status: complete
+16:17:51 [226372] Client synchronization started
+16:17:51 [226376] 0% Loaded updateCount: 3315
+16:17:51 [226376] 0% Usage Metrics: sessionCount=0
+16:17:51 [226376] 0% SyncState: devices used: 1
+16:17:51 [226376] 0% Client is up to date with the server, updateCount: 3315
+16:17:51 [226376] 0% Updating user "654039269"
+16:17:51 [226376] 0% * email last verified 2016/10/14 09:03:01 (UTC+8:00)
+16:17:51 [226376] 0% Retrieving cross promotion info for user "654039269"
+16:17:51 [226372] Client synchronization finished, status: complete
+16:22:51 [228044] Client synchronization started
+16:22:52 [227984] 0% Loaded updateCount: 3315
+16:22:52 [227984] 0% Usage Metrics: sessionCount=0
+16:22:52 [227984] 0% SyncState: devices used: 1
+16:22:52 [227984] 0% Client is up to date with the server, updateCount: 3315
+16:22:52 [227984] 0% Updating user "654039269"
+16:22:52 [227984] 0% * email last verified 2016/10/14 09:03:01 (UTC+8:00)
+16:22:52 [227984] 0% Retrieving cross promotion info for user "654039269"
+16:22:52 [228044] Client synchronization finished, status: complete
+16:22:52 [228044] * elapsed time: 1s
+16:27:53 [230472] Client synchronization started
+16:27:53 [230476] 0% Loaded updateCount: 3315
+16:27:53 [230476] 0% Usage Metrics: sessionCount=0
+16:27:53 [230476] 0% SyncState: devices used: 1
+16:27:53 [230476] 0% Client is up to date with the server, updateCount: 3315
+16:27:53 [230476] 0% Updating user "654039269"
+16:27:53 [230476] 0% * email last verified 2016/10/14 09:03:01 (UTC+8:00)
+16:27:53 [230476] 0% Retrieving cross promotion info for user "654039269"
+16:27:54 [230472] Client synchronization finished, status: complete
+16:27:54 [230472] * elapsed time: 0s
+16:32:54 [231700] Client synchronization started
+16:32:54 [220092] 0% Loaded updateCount: 3315
+16:32:54 [220092] 0% Usage Metrics: sessionCount=0
+16:32:54 [220092] 0% SyncState: devices used: 1
+16:32:54 [220092] 0% Client is up to date with the server, updateCount: 3315
+16:32:54 [220092] 0% Updating user "654039269"
+16:32:54 [220092] 0% * email last verified 2016/10/14 09:03:01 (UTC+8:00)
+16:32:54 [220092] 0% Retrieving cross promotion info for user "654039269"
+16:32:55 [231700] Client synchronization finished, status: complete
+16:32:55 [231700] * elapsed time: 1s
+16:37:56 [234488] Client synchronization started
+16:37:56 [233964] 0% Loaded updateCount: 3315
+16:37:56 [233964] 0% Usage Metrics: sessionCount=0
+16:37:56 [233964] 0% SyncState: devices used: 1
+16:37:56 [233964] 0% Client is up to date with the server, updateCount: 3315
+16:37:56 [233964] 0% Updating user "654039269"
+16:37:56 [233964] 0% * email last verified 2016/10/14 09:03:01 (UTC+8:00)
+16:37:56 [233964] 0% Retrieving cross promotion info for user "654039269"
+16:37:56 [234488] Client synchronization finished, status: complete
+16:42:56 [236408] Client synchronization started
+16:42:56 [236320] 0% Loaded updateCount: 3315
+16:42:56 [236320] 0% Usage Metrics: sessionCount=0
+16:42:56 [236320] 0% SyncState: devices used: 1
+16:42:56 [236320] 0% Client is up to date with the server, updateCount: 3315
+16:42:56 [236320] 0% Updating user "654039269"
+16:42:56 [236320] 0% * email last verified 2016/10/14 09:03:01 (UTC+8:00)
+16:42:57 [236320] 0% Retrieving cross promotion info for user "654039269"
+16:42:57 [236408] Client synchronization finished, status: complete
+16:42:57 [236408] * elapsed time: 0s
+16:47:57 [238152] Client synchronization started
+16:47:57 [238296] 0% Loaded updateCount: 3315
+16:47:57 [238296] 0% Usage Metrics: sessionCount=0
+16:47:57 [238296] 0% SyncState: devices used: 1
+16:47:57 [238296] 0% Client is up to date with the server, updateCount: 3315
+16:47:57 [238296] 0% Updating user "654039269"
+16:47:57 [238296] 0% * email last verified 2016/10/14 09:03:01 (UTC+8:00)
+16:47:57 [238296] 0% Retrieving cross promotion info for user "654039269"
+16:47:57 [238152] Client synchronization finished, status: complete
+16:52:57 [240408] Client synchronization started
+16:52:57 [240164] 0% Loaded updateCount: 3315
+16:52:57 [240164] 0% Usage Metrics: sessionCount=0
+16:52:57 [240164] 0% SyncState: devices used: 1
+16:52:57 [240164] 0% Client is up to date with the server, updateCount: 3315
+16:52:57 [240164] 0% Updating user "654039269"
+16:52:57 [240164] 0% * email last verified 2016/10/14 09:03:01 (UTC+8:00)
+16:52:57 [240164] 0% Retrieving cross promotion info for user "654039269"
+16:52:57 [240408] Client synchronization finished, status: complete
+16:57:57 [243668] Client synchronization started
+16:57:57 [243672] 0% Loaded updateCount: 3315
+16:57:57 [243672] 0% Usage Metrics: sessionCount=0
+16:57:57 [243672] 0% SyncState: devices used: 1
+16:57:57 [243672] 0% Client is up to date with the server, updateCount: 3315
+16:57:57 [243672] 0% Updating user "654039269"
+16:57:57 [243672] 0% * email last verified 2016/10/14 09:03:01 (UTC+8:00)
+16:57:57 [243672] 0% Retrieving cross promotion info for user "654039269"
+16:57:57 [243668] Client synchronization finished, status: complete
+17:02:58 [245560] Client synchronization started
+17:02:58 [245556] 0% Loaded updateCount: 3315
+17:02:58 [245556] 0% Usage Metrics: sessionCount=0
+17:02:58 [245556] 0% SyncState: devices used: 1
+17:02:58 [245556] 0% Client is up to date with the server, updateCount: 3315
+17:02:58 [245556] 0% Updating user "654039269"
+17:02:58 [245556] 0% * email last verified 2016/10/14 09:03:01 (UTC+8:00)
+17:02:58 [245556] 0% Retrieving cross promotion info for user "654039269"
+17:02:58 [245560] Client synchronization finished, status: complete
+17:07:58 [247620] Client synchronization started
+17:07:58 [247612] 0% Loaded updateCount: 3315
+17:07:59 [247612] 0% Usage Metrics: sessionCount=0
+17:07:59 [247612] 0% SyncState: devices used: 1
+17:07:59 [247612] 0% Client is up to date with the server, updateCount: 3315
+17:07:59 [247612] 0% Updating user "654039269"
+17:07:59 [247612] 0% * email last verified 2016/10/14 09:03:01 (UTC+8:00)
+17:07:59 [247612] 0% Retrieving cross promotion info for user "654039269"
+17:07:59 [247620] Client synchronization finished, status: complete
+17:07:59 [247620] * elapsed time: 0s
+17:08:27 [200484] Registered session count: 1, last session: 2017/04/05 17:00:00
+17:08:32 [200484] Saved session count: 1, last session: 2017/04/05 17:00:00
+17:08:32 [200484] Closed database: C:\Users\shaoj\Evernote\Databases\654039269#app.yinxiang.com.exb (51.0 MB +0 B)

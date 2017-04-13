@@ -1,0 +1,417 @@
+********
+* The Activity Log contains a detailed list of the steps the Evernote application performs,
+* as well as information about your account and your device. Your Note titles, tags,
+* Notebook names and occasionally Note content also may be included. We treat your
+* Activity Log data as confidential, and the terms of our Privacy Policy apply (http://evernote.com/privacy).
+*
+* You may remove anything you do not want to send us.
+********
+
+
+Log opened on 2017/04/13 15:18:14 (UTC+8:00)
+
+15:18:14 [128488] Command line: "C:\Program Files (x86)\Evernote\Evernote\Evernote.exe" 
+15:18:14 [128488] Evernote for Windows 6.5.4.4720 (304720) Public
+15:18:14 [128488] Client info: Evernote Windows/304720 (zh-CN, DDL); Windows/10.0.14393 (Win64);
+15:18:14 [128488] Common Editor: ce-1.0.29.936-develop-win (37b21f0e0ce4cb64b49ea2234d305d4f61c18559)
+15:18:15 [128488] Bootstrap info: Evernote-China,Evernote (loadedLastUsed)
+15:18:16 [128488] Registered session count: 1, last session: 2017/04/13 15:15:00
+15:18:16 [128488] Set the service host to "app.yinxiang.com"
+15:18:16 [128488] Bootstrap info: Evernote-China,Evernote (loadedDatabase)
+15:18:16 [128488] Loaded session count: 1, last session: 2017/04/11 22:15:00
+15:18:16 [128488] CInAppMessageUpSellImpl::CInAppMessageUpSellImpl: UtilityStoreClient update begin
+15:18:17 [128488] UpSell: TsdEligibility: Show:0 NewCheck:2017/04/14 15:18:17
+15:18:17 [128488] CInAppMessageUpSellImpl::CInAppMessageUpSellImpl: UtilityStoreClient update complete
+15:18:17 [129132] Sync rate configuration changed:
+15:18:17 [129132] * syncStateIntervalMillis=900000
+15:18:17 [129132] * updateNoteWhenIdleForMillis=30000
+15:18:17 [129132] * updateNoteDuringEditIntervalMillis=60000
+15:18:17 [128488] Opened database: C:\Users\shaoj\Evernote\Databases\654039269#app.yinxiang.com.exb (55.1 MB Fixed 52.0 GB free)
+15:18:17 [128488] * email: 654039269@qq.com
+15:18:17 [128488] * user: 11025798
+15:18:17 [128488] Communication Engine client handler failed to retrieve cached events from local data store
+15:18:17 [128488] Registered session count: 2, last session: 2017/04/13 15:15:00
+15:18:18 [129208] Updating Premium account limits
+15:18:18 [129208] Premium account limits have been updated
+15:18:21 [129392] Client synchronization started
+15:18:21 [129396] 0% Loaded updateCount: 3341
+15:18:21 [129396] 0% Usage Metrics: sessionCount=2
+15:18:21 [129396] 0% SyncState: devices used: 1
+15:18:21 [129396] 0% Client is up to date with the server, updateCount: 3341
+15:18:21 [129396] 0% Updating user "654039269"
+15:18:21 [129396] 0% * email last verified 2016/10/14 09:03:01 (UTC+8:00)
+15:18:21 [129396] 0% Retrieving cross promotion info for user "654039269"
+15:18:21 [129392] Client synchronization finished, status: complete
+15:18:47 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:18:47 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:18:47 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:18:47 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:18:47 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:18:47 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:18:47 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:18:47 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:18:48 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:20:16 [128736] Received status code 200 when accessing URL https://update.evernote.com/public/ENWin6/ReleaseNotes_6.5.4.4720_zh-CN.html
+15:23:21 [131120] Client synchronization started
+15:23:21 [131124] 0% Loaded updateCount: 3341
+15:23:21 [131124] 0% Usage Metrics: sessionCount=0
+15:23:21 [131124] 0% SyncState: devices used: 1
+15:23:21 [131124] 0% Client is up to date with the server, updateCount: 3341
+15:23:21 [131124] 0% Updating user "654039269"
+15:23:21 [131124] 0% * email last verified 2016/10/14 09:03:01 (UTC+8:00)
+15:23:21 [131124] 0% Retrieving cross promotion info for user "654039269"
+15:23:22 [131124] 0% Updating server items
+15:23:22 [131124] 0% Creating server note "以下内容，纯属扯淡，涉嫌偏题。", resource count: 0, content: 10.1 KB
+15:23:22 [131124] 0% * Notebook "知乎答题", guid={c4abba6a-c0c5-49af-8d88-423d55d2c6ce}
+15:23:22 [131124] 0% * guid={d691f4fe-5bb5-4275-876a-271e69f4d957}
+15:23:22 [131124] 100% Loaded updateCount: 3341
+15:23:22 [131124] 100% Usage Metrics: sessionCount=0
+15:23:22 [131124] 100% SyncState: devices used: 1
+15:23:22 [131124] 100% Client updateCount: 3341, server updateCount: 3342
+15:23:22 [131124] 100% Retrieving list of changes from the server
+15:23:23 [131124] 0% * saved 1 sync chunks, updateCount=3342
+15:23:23 [131124] 0% Receiving account changes
+15:23:23 [131124] 0% * expunge 0 notebooks, 0 notes, 0 tags, 0 searches, 0 linked notebooks
+15:23:23 [131124] 0% * update 0 notebooks, 1 notes, 0 resources, 0 tags, 0 searches, 0 linked notebooks
+15:23:23 [131124] 0% Updating user "654039269"
+15:23:23 [131124] 0% * email last verified 2016/10/14 09:03:01 (UTC+8:00)
+15:23:23 [131124] 0% Retrieving cross promotion info for user "654039269"
+15:23:23 [131124] 0% Submitting get 1 notes task
+15:23:23 [131124] 0% Waiting for 1 sync tasks
+15:23:23 [131224] 0% Retrieving 1 note
+15:23:23 [131224] 0% Retrieving note "以下内容，纯属扯淡，涉嫌偏题。"
+15:23:23 [131224] 0% * guid={d691f4fe-5bb5-4275-876a-271e69f4d957}
+15:23:23 [131224] 100% Submitting 1 notes for writing
+15:23:23 [131224] 100% Waiting for 1 base writer tasks
+15:23:23 [131228] 100% Writing 1 notes
+15:23:23 [131224] 100% Waiting for 1 base writer tasks done
+15:23:23 [131124] 100% Done waiting for 1 sync tasks
+15:23:23 [131124] 100% Waiting for 1 sync tasks
+15:23:23 [131124] 100% Done waiting for 1 sync tasks
+15:23:23 [131120] Client synchronization finished, status: complete
+15:23:23 [131120] * elapsed time: 1s
+15:23:23 [131120] * 1 item sent
+
+Log opened on 2017/04/13 15:27:29 (UTC+8:00)
+
+15:27:29 [134020] Command line: "C:\Program Files (x86)\Evernote\Evernote\Evernote.exe" 
+
+Log closed on 2017/04/13 15:27:29 (UTC+8:00)
+
+15:27:29 [128488] Command line: "C:\Program Files (x86)\Evernote\Evernote\Evernote.exe" 
+15:28:02 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:28:03 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:28:03 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:28:03 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:28:03 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:28:03 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:28:03 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:28:03 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:28:04 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:28:04 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:28:04 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:28:04 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:28:04 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:28:04 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:28:04 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:28:04 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:28:17 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:28:18 [134112] Client synchronization started
+15:28:18 [134056] 0% Loaded updateCount: 3342
+15:28:18 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:28:19 [134056] 0% Usage Metrics: sessionCount=0
+15:28:19 [134056] 0% SyncState: devices used: 1
+15:28:19 [134056] 0% Client is up to date with the server, updateCount: 3342
+15:28:19 [134056] 0% Updating user "654039269"
+15:28:19 [134056] 0% * email last verified 2016/10/14 09:03:01 (UTC+8:00)
+15:28:19 [134056] 0% Retrieving cross promotion info for user "654039269"
+15:28:19 [134056] 0% Updating server items
+15:28:19 [134056] 0% Creating server notebook "知乎优秀答案"
+15:28:19 [134056] 0% * guid={4492d09b-ea28-44c0-866f-cddeb2126c8f}
+15:28:19 [134056] 50% Creating server note "你最喜欢的故事是什么？", resource count: 0, content: 1.2 KB
+15:28:19 [134056] 50% * Notebook "知乎优秀答案", guid={4492d09b-ea28-44c0-866f-cddeb2126c8f}
+15:28:20 [134056] 50% * guid={a3d0b847-088b-4ac6-9e29-023e68e41b0d}
+15:28:20 [134056] 100% Loaded updateCount: 3342
+15:28:20 [134056] 100% Usage Metrics: sessionCount=0
+15:28:20 [134056] 100% SyncState: devices used: 1
+15:28:20 [134056] 100% Client updateCount: 3342, server updateCount: 3344
+15:28:20 [134056] 100% Retrieving list of changes from the server
+15:28:20 [134056] 0% * saved 1 sync chunks, updateCount=3344
+15:28:20 [134056] 0% Receiving account changes
+15:28:20 [134056] 0% * expunge 0 notebooks, 0 notes, 0 tags, 0 searches, 0 linked notebooks
+15:28:20 [134056] 0% * update 1 notebooks, 1 notes, 0 resources, 0 tags, 0 searches, 0 linked notebooks
+15:28:20 [134056] 0% Updating user "654039269"
+15:28:20 [134056] 0% * email last verified 2016/10/14 09:03:01 (UTC+8:00)
+15:28:20 [134056] 0% Retrieving cross promotion info for user "654039269"
+15:28:20 [134056] 0% Waiting for 1 base writer tasks
+15:28:20 [91220] 0% Synchronizing 1 notebook
+15:28:20 [91220] 100% Updating local notebook "知乎优秀答案"
+15:28:20 [91220] 100% * guid={4492D09B-EA28-44C0-866F-CDDEB2126C8F}
+15:28:20 [134056] 100% Waiting for 1 base writer tasks done
+15:28:20 [134056] 100% Submitting get 1 notes task
+15:28:20 [134056] 50% Waiting for 1 sync tasks
+15:28:20 [133280] 50% Retrieving 1 note
+15:28:20 [133280] 50% Retrieving note "你最喜欢的故事是什么？"
+15:28:20 [133280] 50% * guid={a3d0b847-088b-4ac6-9e29-023e68e41b0d}
+15:28:20 [133280] 100% Submitting 1 notes for writing
+15:28:20 [133280] 100% Waiting for 1 base writer tasks
+15:28:20 [91220] 100% Writing 1 notes
+15:28:20 [133280] 100% Waiting for 1 base writer tasks done
+15:28:20 [134056] 100% Done waiting for 1 sync tasks
+15:28:20 [134056] 100% Waiting for 1 sync tasks
+15:28:20 [134056] 100% Done waiting for 1 sync tasks
+15:28:20 [134112] Client synchronization finished, status: complete
+15:28:20 [134112] * elapsed time: 1s
+15:28:20 [134112] * 1 item received
+15:28:20 [134112] * 2 items sent
+15:28:20 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:28:21 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:28:21 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:28:22 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:28:23 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:28:24 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:28:29 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:28:29 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:28:34 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:28:36 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:28:36 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:28:38 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:28:39 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:28:40 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:28:41 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:28:42 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:28:44 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:28:44 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:28:45 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:28:45 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:28:45 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:28:56 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:28:57 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:29:00 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:29:16 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:29:18 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:29:18 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:29:22 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:29:29 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:29:30 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:29:30 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:29:30 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:29:31 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:29:32 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:29:36 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:29:37 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:29:38 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:29:39 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:29:40 [128488] UI: user confirmed deletion of synchronized notebook "知乎"
+15:29:41 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:29:42 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:29:44 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:29:44 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:29:46 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:29:47 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:29:50 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:29:50 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:29:51 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:29:52 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:29:53 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:29:55 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:29:55 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:29:56 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:29:57 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:29:58 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:29:58 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:29:58 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:30:00 [128488] Registered session count: 1, last session: 2017/04/13 15:30:00
+15:30:00 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:30:03 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:30:03 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:30:03 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:30:03 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:30:04 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:30:04 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:30:05 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:30:05 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:30:06 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:30:06 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:30:24 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:30:30 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:30:30 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:30:45 [128488] Saved session count: 1, last session: 2017/04/13 15:30:00
+15:30:45 [128488] Closed database: C:\Users\shaoj\Evernote\Databases\654039269#app.yinxiang.com.exb (55.1 MB +28.0 KB)
+15:30:45 [128488] Changing Evernote files location to: D:\github\新建文件夹
+
+Log closed on 2017/04/13 15:30:45 (UTC+8:00)
+
+
+Log opened on 2017/04/13 15:30:46 (UTC+8:00)
+
+15:30:46 [128488] Changed Evernote files location to: D:\github\新建文件夹
+15:30:46 [128488] Bootstrap info: Evernote-China,Evernote (loadedDatabase)
+15:30:46 [128488] Sync rate configuration changed:
+15:30:46 [128488] * syncStateIntervalMillis=0
+15:30:46 [128488] * updateNoteWhenIdleForMillis=0
+15:30:46 [128488] * updateNoteDuringEditIntervalMillis=0
+15:30:46 [128488] Loaded session count: 1, last session: 2017/04/13 15:30:00
+15:30:46 [128488] Opened database: D:\github\新建文件夹\Databases\654039269#app.yinxiang.com.exb (55.1 MB Fixed 187 GB free)
+15:30:46 [128488] * email: 654039269@qq.com
+15:30:46 [128488] * user: 11025798
+15:30:47 [134668] Sync rate configuration changed:
+15:30:47 [134668] * syncStateIntervalMillis=900000
+15:30:47 [134668] * updateNoteWhenIdleForMillis=30000
+15:30:47 [134668] * updateNoteDuringEditIntervalMillis=60000
+15:30:47 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:31:00 [130644] Client synchronization started
+15:31:00 [134276] 0% Loaded updateCount: 3344
+15:31:00 [134276] 0% Usage Metrics: sessionCount=1
+15:31:00 [134276] 0% SyncState: devices used: 1
+15:31:00 [134276] 0% Client is up to date with the server, updateCount: 3344
+15:31:00 [134276] 0% Updating user "654039269"
+15:31:00 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:31:01 [134276] 0% * email last verified 2016/10/14 09:03:01 (UTC+8:00)
+15:31:01 [134276] 0% Retrieving cross promotion info for user "654039269"
+15:31:01 [134276] 0% Updating server items
+15:31:01 [134276] 0% Updating server notebook "知乎答题"
+15:31:01 [134276] 0% * guid={c4abba6a-c0c5-49af-8d88-423d55d2c6ce}
+15:31:01 [134276] 50% Updating server notebook "知乎优秀答案"
+15:31:01 [134276] 50% * guid={4492d09b-ea28-44c0-866f-cddeb2126c8f}
+15:31:02 [134276] 100% Loaded updateCount: 3344
+15:31:02 [134276] 100% Usage Metrics: sessionCount=0
+15:31:02 [134276] 100% SyncState: devices used: 1
+15:31:02 [134276] 100% Client updateCount: 3344, server updateCount: 3346
+15:31:02 [134276] 100% Retrieving list of changes from the server
+15:31:02 [134276] 0% * saved 1 sync chunks, updateCount=3346
+15:31:02 [134276] 0% Receiving account changes
+15:31:02 [134276] 0% * expunge 0 notebooks, 0 notes, 0 tags, 0 searches, 0 linked notebooks
+15:31:02 [134276] 0% * update 2 notebooks, 0 notes, 0 resources, 0 tags, 0 searches, 0 linked notebooks
+15:31:02 [134276] 0% Updating user "654039269"
+15:31:02 [134276] 0% * email last verified 2016/10/14 09:03:01 (UTC+8:00)
+15:31:03 [134276] 0% Retrieving cross promotion info for user "654039269"
+15:31:03 [134276] 0% Waiting for 1 base writer tasks
+15:31:03 [134184] 0% Synchronizing 2 notebooks
+15:31:03 [134184] 50% Updating local notebook "知乎答题"
+15:31:03 [134184] 50% * guid={C4ABBA6A-C0C5-49AF-8D88-423D55D2C6CE}
+15:31:03 [134184] 100% Updating local notebook "知乎优秀答案"
+15:31:03 [134184] 100% * guid={4492D09B-EA28-44C0-866F-CDDEB2126C8F}
+15:31:03 [134276] 100% Waiting for 1 base writer tasks done
+15:31:04 [130644] Client synchronization finished, status: complete
+15:31:04 [130644] * elapsed time: 4s
+15:31:04 [130644] * 2 items received
+15:31:04 [130644] * 2 items sent
+15:31:04 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:33:18 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:33:33 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:33:38 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:33:38 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:33:38 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:33:39 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:33:39 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:33:40 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:33:40 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:33:41 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:33:41 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:33:42 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:33:42 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:33:42 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:33:43 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:33:45 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:33:52 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:33:52 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:33:52 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:33:53 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:33:53 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:33:55 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:33:56 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:34:12 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:34:12 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:34:12 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:34:12 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:34:13 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:34:13 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:34:13 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:34:13 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:34:13 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:34:13 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:34:50 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:34:50 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:34:50 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:34:50 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:34:50 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:34:50 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:34:50 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:35:10 [128488] Saved session count: 0, last session: 2017/04/13 15:30:00
+15:35:10 [128488] Closed database: D:\github\新建文件夹\Databases\654039269#app.yinxiang.com.exb (55.1 MB +0 B)
+15:35:10 [128488] Changing Evernote files location to: D:\github\evernote
+
+Log closed on 2017/04/13 15:35:10 (UTC+8:00)
+
+
+Log opened on 2017/04/13 15:35:12 (UTC+8:00)
+
+15:35:12 [128488] Changed Evernote files location to: D:\github\evernote
+15:35:12 [128488] Bootstrap info: Evernote-China,Evernote (loadedDatabase)
+15:35:12 [128488] Sync rate configuration changed:
+15:35:12 [128488] * syncStateIntervalMillis=0
+15:35:12 [128488] * updateNoteWhenIdleForMillis=0
+15:35:12 [128488] * updateNoteDuringEditIntervalMillis=0
+15:35:12 [128488] Loaded session count: 0, last session: 2017/04/13 15:30:00
+15:35:12 [128488] Opened database: D:\github\evernote\Databases\654039269#app.yinxiang.com.exb (55.1 MB Fixed 187 GB free)
+15:35:12 [128488] * email: 654039269@qq.com
+15:35:12 [128488] * user: 11025798
+15:35:12 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:35:12 [135864] Sync rate configuration changed:
+15:35:12 [135864] * syncStateIntervalMillis=900000
+15:35:12 [135864] * updateNoteWhenIdleForMillis=30000
+15:35:12 [135864] * updateNoteDuringEditIntervalMillis=60000
+15:35:34 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:35:37 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:35:55 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:35:55 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:35:57 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:35:58 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:35:59 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:36:00 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:36:01 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:36:01 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:36:02 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:36:02 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:36:03 [48448] Client synchronization started
+15:36:03 [107604] 0% Loaded updateCount: 3346
+15:36:04 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:36:04 [107604] 0% Usage Metrics: sessionCount=0
+15:36:04 [107604] 0% SyncState: devices used: 1
+15:36:04 [107604] 0% Client is up to date with the server, updateCount: 3346
+15:36:04 [107604] 0% Updating user "654039269"
+15:36:04 [107604] 0% * email last verified 2016/10/14 09:03:01 (UTC+8:00)
+15:36:04 [107604] 0% Retrieving cross promotion info for user "654039269"
+15:36:05 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:36:05 [107604] 0% Updating server items
+15:36:05 [107604] 0% Updating server notebook "老司机带带我"
+15:36:05 [107604] 0% * guid={d4d30791-fe60-43f1-b69f-f4a8934a31b4}
+15:36:06 [107604] 100% Loaded updateCount: 3346
+15:36:06 [107604] 100% Usage Metrics: sessionCount=0
+15:36:06 [107604] 100% SyncState: devices used: 1
+15:36:06 [107604] 100% Client updateCount: 3346, server updateCount: 3347
+15:36:06 [107604] 100% Retrieving list of changes from the server
+15:36:06 [107604] 0% * saved 1 sync chunks, updateCount=3347
+15:36:06 [107604] 0% Receiving account changes
+15:36:06 [107604] 0% * expunge 0 notebooks, 0 notes, 0 tags, 0 searches, 0 linked notebooks
+15:36:06 [107604] 0% * update 1 notebooks, 0 notes, 0 resources, 0 tags, 0 searches, 0 linked notebooks
+15:36:06 [107604] 0% Updating user "654039269"
+15:36:06 [107604] 0% * email last verified 2016/10/14 09:03:01 (UTC+8:00)
+15:36:06 [107604] 0% Retrieving cross promotion info for user "654039269"
+15:36:06 [107604] 0% Waiting for 1 base writer tasks
+15:36:06 [134652] 0% Synchronizing 1 notebook
+15:36:06 [134652] 100% Updating local notebook "老司机带带我"
+15:36:06 [134652] 100% * guid={D4D30791-FE60-43F1-B69F-F4A8934A31B4}
+15:36:06 [107604] 100% Waiting for 1 base writer tasks done
+15:36:06 [48448] Client synchronization finished, status: complete
+15:36:06 [48448] * elapsed time: 2s
+15:36:06 [48448] * 1 item received
+15:36:06 [48448] * 1 item sent
+15:36:10 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:36:11 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:36:11 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:36:12 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:36:12 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:36:13 [128548] GA: Failed to send event (error: 指定资源下载失败。)
+15:36:15 [128548] GA: Failed to send event (error: 指定资源下载失败。)

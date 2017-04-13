@@ -1,0 +1,420 @@
+********
+* The Activity Log contains a detailed list of the steps the Evernote application performs,
+* as well as information about your account and your device. Your Note titles, tags,
+* Notebook names and occasionally Note content also may be included. We treat your
+* Activity Log data as confidential, and the terms of our Privacy Policy apply (http://evernote.com/privacy).
+*
+* You may remove anything you do not want to send us.
+********
+
+
+Log opened on 2017/04/10 00:55:42 (UTC+8:00)
+
+00:55:42 [35736] Command line: "C:\Program Files (x86)\Evernote\Evernote\Evernote.exe" 
+00:55:42 [35736] Evernote for Windows 6.5.4.4720 (304720) Public
+00:55:42 [35736] Client info: Evernote Windows/304720 (zh-CN, DDL); Windows/10.0.14393 (Win64);
+00:55:42 [35736] Common Editor: ce-1.0.29.936-develop-win (37b21f0e0ce4cb64b49ea2234d305d4f61c18559)
+00:55:42 [35736] Bootstrap info: Evernote-China,Evernote (loadedLastUsed)
+00:55:43 [35736] Registered session count: 1, last session: 2017/04/10 00:45:00
+00:55:43 [35736] Set the service host to "app.yinxiang.com"
+00:55:43 [35736] Bootstrap info: Evernote-China,Evernote (loadedDatabase)
+00:55:43 [35736] Loaded session count: 0, last session: 2017/04/07 23:00:00
+00:55:43 [35736] CInAppMessageUpSellImpl::CInAppMessageUpSellImpl: UtilityStoreClient update begin
+00:55:43 [35736] 0% Can't send HTTP request, error: INTERNET_NAME_NOT_RESOLVED
+00:55:43 [35736] CInAppMessageUpSellImpl::CInAppMessageUpSellImpl: UtilityStoreClient update complete
+00:55:43 [376004] 0% Can't send HTTP request, error: INTERNET_NAME_NOT_RESOLVED
+00:55:43 [376004] Service polling fallback interval: 0s
+00:55:43 [35736] Opened database: C:\Users\shaoj\Evernote\Databases\654039269#app.yinxiang.com.exb (55.1 MB Fixed 51.0 GB free)
+00:55:43 [35736] * email: 654039269@qq.com
+00:55:43 [35736] * user: 11025798
+00:55:43 [106856] 0% Can't send HTTP request, error: INTERNET_NAME_NOT_RESOLVED
+00:55:43 [106856] Utility Store request has failed. Error: 无法连接到 印象笔记 服务器
+00:55:43 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+00:55:44 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+00:55:44 [35736] Communication Engine client handler failed to retrieve cached events from local data store
+00:55:44 [35736] Failed to retrieve messages from the Communication Engine Client
+00:55:44 [35736] * Can't send HTTP request, error: INTERNET_NAME_NOT_RESOLVED
+00:55:45 [376004] 0% Can't send HTTP request, error: INTERNET_NAME_NOT_RESOLVED
+00:55:45 [376004] Service polling fallback interval: 1s
+00:55:45 [35736] Registered session count: 1, last session: 2017/04/10 00:45:00
+00:55:46 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+00:55:46 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+00:55:47 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+00:55:47 [376004] 0% Can't send HTTP request, error: INTERNET_NAME_NOT_RESOLVED
+00:55:47 [376004] Service polling fallback interval: 3s
+00:55:48 [377968] Client synchronization started
+00:55:48 [377972] 0% Loaded updateCount: 3339
+00:55:48 [377972] 0% Can't send HTTP request, error: INTERNET_NAME_NOT_RESOLVED
+00:55:48 [377968] Client synchronization finished, status: failed
+00:55:48 [377968] * error: 无法连接到 印象笔记 服务器
+00:55:48 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+00:55:48 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+00:55:48 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+00:55:48 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+00:55:48 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+00:55:48 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+00:55:48 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+00:55:48 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+00:55:48 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+00:55:48 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+00:55:48 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+00:55:48 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+00:55:48 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+00:55:48 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+00:55:48 [377984] Image download failed, error=INTERNET_NAME_NOT_RESOLVED, statusCode=0,  statusText=, url=https://app.yinxiang.com/shard/s50/user/10702973/photo
+00:55:48 [377984] Image download failed, error=INTERNET_NAME_NOT_RESOLVED, statusCode=0,  statusText=, url=https://app.yinxiang.com/shard/s58/user/11025798/photo
+00:55:49 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+00:55:51 [376004] 0% Can't send HTTP request, error: INTERNET_NAME_NOT_RESOLVED
+00:55:51 [376004] Service polling fallback interval: 6s
+00:55:51 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+00:55:52 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+00:55:53 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+00:55:54 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+00:55:55 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+00:55:58 [376004] 0% Can't send HTTP request, error: INTERNET_NAME_NOT_RESOLVED
+00:55:58 [376004] Service polling fallback interval: 16s
+00:55:58 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+00:55:59 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+00:56:03 [378356] 0% Syncing note "我写一个，个例的事情吧。", resource count: 0
+00:56:03 [378356] 0% Creating server note "我写一个，个例的事情吧。", resource count: 0, content: 5.6 KB
+00:56:03 [378356] 0% * Notebook "知乎答题", guid={c4abba6a-c0c5-49af-8d88-423d55d2c6ce}
+00:56:03 [378356] 0% Can't send HTTP request, error: INTERNET_NAME_NOT_RESOLVED
+00:56:15 [376004] 0% Can't send HTTP request, error: INTERNET_NAME_NOT_RESOLVED
+00:56:15 [376004] Service polling fallback interval: 36s
+00:56:52 [376004] 0% Can't send HTTP request, error: INTERNET_NAME_NOT_RESOLVED
+00:56:52 [376004] Service polling fallback interval: 1m 18s
+00:57:43 [378092] Unable to send HTTP request: 12007
+00:57:43 [378092] Unable to send HTTP request: 12007
+00:58:10 [376004] 0% Can't send HTTP request, error: INTERNET_NAME_NOT_RESOLVED
+00:58:10 [376004] Service polling fallback interval: 2m 34s
+01:00:45 [376004] 0% Can't send HTTP request, error: INTERNET_NAME_NOT_RESOLVED
+01:00:45 [376004] Service polling fallback interval: 5m 56s
+01:00:48 [379504] Client synchronization started
+01:00:48 [379200] 0% Loaded updateCount: 3339
+01:00:48 [379200] 0% Can't send HTTP request, error: INTERNET_NAME_NOT_RESOLVED
+01:00:48 [379504] Client synchronization finished, status: failed
+01:00:48 [379504] * error: 无法连接到 印象笔记 服务器
+01:00:48 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+01:00:48 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+01:00:48 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+01:00:48 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+01:00:48 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+01:00:48 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+01:00:48 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+01:00:48 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+01:00:48 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+01:00:48 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+01:00:48 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+01:00:48 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+01:00:48 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+01:00:48 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+01:00:48 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+01:00:48 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+01:00:48 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+01:05:49 [381568] Client synchronization started
+01:05:49 [381036] 0% Loaded updateCount: 3339
+01:05:49 [381036] 0% Can't send HTTP request, error: INTERNET_NAME_NOT_RESOLVED
+01:05:49 [381568] Client synchronization finished, status: failed
+01:05:49 [381568] * error: 无法连接到 印象笔记 服务器
+01:05:49 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+01:05:49 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+01:05:49 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+01:06:42 [376004] 0% Can't send HTTP request, error: INTERNET_NAME_NOT_RESOLVED
+01:06:42 [376004] Service polling fallback interval: 12m 50s
+01:10:49 [383868] Client synchronization started
+01:10:49 [383880] 0% Loaded updateCount: 3339
+01:10:49 [383880] 0% Can't send HTTP request, error: INTERNET_NAME_NOT_RESOLVED
+01:10:49 [383868] Client synchronization finished, status: failed
+01:10:49 [383868] * error: 无法连接到 印象笔记 服务器
+01:10:49 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+01:10:49 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+01:10:49 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+01:10:49 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+01:10:49 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+01:15:50 [385244] Client synchronization started
+01:15:50 [385436] 0% Loaded updateCount: 3339
+01:15:50 [385436] 0% Can't send HTTP request, error: INTERNET_NAME_NOT_RESOLVED
+01:15:50 [385244] Client synchronization finished, status: failed
+01:15:50 [385244] * error: 无法连接到 印象笔记 服务器
+01:15:50 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+01:15:50 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+01:15:50 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+01:17:43 [386300] AutoUpdate: checking for update at: https://update.evernote.com/public/ENWin6/update.xml
+01:17:43 [386300] Unable to send HTTP request: 12007
+01:17:43 [386300] AutoUpdate: checking for update at: https://update.evernote.com/prerelease/ENWin6/update.xml
+01:17:43 [386300] Unable to send HTTP request: 12007
+01:17:43 [386300] Error retrieving update details: 无法解析服务器的名称或地址 (12007)
+01:19:33 [376004] 0% Can't send HTTP request, error: INTERNET_NAME_NOT_RESOLVED
+01:19:33 [376004] Service polling fallback interval: 21m 57s
+01:20:50 [387320] Client synchronization started
+01:20:50 [387448] 0% Loaded updateCount: 3339
+01:20:50 [387448] 0% Can't send HTTP request, error: INTERNET_NAME_NOT_RESOLVED
+01:20:50 [387320] Client synchronization finished, status: failed
+01:20:50 [387320] * error: 无法连接到 印象笔记 服务器
+01:20:50 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+01:20:50 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+01:20:50 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+01:20:50 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+01:20:50 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+01:24:38 [35736] Registered session count: 1, last session: 2017/04/10 01:15:00
+01:24:50 [390056] 0% Syncing note "假定你说的流行小说，不是名著什么的，我写一个，我个例的事情吧。", resource count: 0
+01:24:50 [390056] 0% Creating server note "假定你说的流行小说，不是名著什么的，我写一个，我个例的事情吧。", resource count: 0, content: 6.7 KB
+01:24:50 [390056] 0% * Notebook "知乎答题", guid={c4abba6a-c0c5-49af-8d88-423d55d2c6ce}
+01:24:50 [390056] 0% Can't send HTTP request, error: INTERNET_NAME_NOT_RESOLVED
+01:25:50 [378372] Client synchronization started
+01:25:50 [388796] 0% Loaded updateCount: 3339
+01:25:50 [388796] 0% Can't send HTTP request, error: INTERNET_NAME_NOT_RESOLVED
+01:25:50 [378372] Client synchronization finished, status: failed
+01:25:50 [378372] * error: 无法连接到 印象笔记 服务器
+01:25:50 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+01:25:50 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+01:25:50 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+01:25:50 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+01:25:50 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+01:30:51 [388180] Client synchronization started
+01:30:51 [388124] 0% Loaded updateCount: 3339
+01:30:51 [388124] 0% Can't send HTTP request, error: INTERNET_NAME_NOT_RESOLVED
+01:30:51 [388180] Client synchronization finished, status: failed
+01:30:51 [388180] * error: 无法连接到 印象笔记 服务器
+01:30:51 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+01:30:51 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+01:30:51 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+01:35:51 [199624] Client synchronization started
+01:35:51 [352348] 0% Loaded updateCount: 3339
+01:35:51 [352348] 0% Can't send HTTP request, error: INTERNET_NAME_NOT_RESOLVED
+01:35:51 [199624] Client synchronization finished, status: failed
+01:35:51 [199624] * error: 无法连接到 印象笔记 服务器
+01:35:51 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+01:35:51 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+01:35:51 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+01:40:52 [59852] Client synchronization started
+01:40:52 [391152] 0% Loaded updateCount: 3339
+01:40:52 [391152] 0% Can't send HTTP request, error: INTERNET_NAME_NOT_RESOLVED
+01:40:52 [59852] Client synchronization finished, status: failed
+01:40:52 [59852] * error: 无法连接到 印象笔记 服务器
+01:40:52 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+01:40:52 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+01:40:52 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+01:41:30 [376004] 0% Can't send HTTP request, error: INTERNET_NAME_NOT_RESOLVED
+01:41:30 [376004] Service polling fallback interval: 30m 0s
+01:45:52 [374296] Client synchronization started
+01:45:52 [199084] 0% Loaded updateCount: 3339
+01:45:52 [199084] 0% Can't send HTTP request, error: INTERNET_NAME_NOT_RESOLVED
+01:45:52 [374296] Client synchronization finished, status: failed
+01:45:52 [374296] * error: 无法连接到 印象笔记 服务器
+01:45:53 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+01:45:53 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+01:45:53 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+01:45:53 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+01:45:53 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+01:50:53 [391996] Client synchronization started
+01:50:53 [391992] 0% Loaded updateCount: 3339
+01:50:53 [391992] 0% Can't send HTTP request, error: INTERNET_NAME_NOT_RESOLVED
+01:50:53 [391996] Client synchronization finished, status: failed
+01:50:53 [391996] * error: 无法连接到 印象笔记 服务器
+01:50:53 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+01:50:53 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+01:50:53 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+01:55:53 [391240] Client synchronization started
+01:55:53 [391204] 0% Loaded updateCount: 3339
+01:55:53 [391204] 0% Can't send HTTP request, error: INTERNET_NAME_NOT_RESOLVED
+01:55:53 [391240] Client synchronization finished, status: failed
+01:55:53 [391240] * error: 无法连接到 印象笔记 服务器
+01:55:53 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+01:55:53 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+01:55:53 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+02:00:53 [383576] Client synchronization started
+02:00:53 [391464] 0% Loaded updateCount: 3339
+02:00:53 [391464] 0% Can't send HTTP request, error: INTERNET_NAME_NOT_RESOLVED
+02:00:53 [383576] Client synchronization finished, status: failed
+02:00:53 [383576] * error: 无法连接到 印象笔记 服务器
+02:00:53 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+02:00:53 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+02:00:53 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+02:05:54 [391816] Client synchronization started
+02:05:54 [391824] 0% Loaded updateCount: 3339
+02:05:54 [391824] 0% Can't send HTTP request, error: INTERNET_NAME_NOT_RESOLVED
+02:05:54 [391816] Client synchronization finished, status: failed
+02:05:54 [391816] * error: 无法连接到 印象笔记 服务器
+02:05:54 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+02:05:54 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+02:05:54 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+02:10:54 [393876] Client synchronization started
+02:10:54 [393872] 0% Loaded updateCount: 3339
+02:10:54 [393872] 0% Can't send HTTP request, error: INTERNET_NAME_NOT_RESOLVED
+02:10:54 [393876] Client synchronization finished, status: failed
+02:10:54 [393876] * error: 无法连接到 印象笔记 服务器
+02:10:54 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+02:10:54 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+02:10:54 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+02:11:31 [376004] 0% Can't send HTTP request, error: INTERNET_NAME_NOT_RESOLVED
+02:11:31 [376004] Service polling fallback interval: 30m 0s
+02:15:55 [392956] Client synchronization started
+02:15:55 [393620] 0% Loaded updateCount: 3339
+02:15:55 [393620] 0% Can't send HTTP request, error: INTERNET_NAME_NOT_RESOLVED
+02:15:55 [392956] Client synchronization finished, status: failed
+02:15:55 [392956] * error: 无法连接到 印象笔记 服务器
+02:15:55 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+02:15:55 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+02:15:55 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+02:15:55 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+02:15:55 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+02:20:55 [392804] Client synchronization started
+02:20:55 [392740] 0% Loaded updateCount: 3339
+02:20:55 [392740] 0% Can't send HTTP request, error: INTERNET_NAME_NOT_RESOLVED
+02:20:55 [392804] Client synchronization finished, status: failed
+02:20:55 [392804] * error: 无法连接到 印象笔记 服务器
+02:20:55 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+02:20:55 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+02:20:55 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+02:25:55 [392904] Client synchronization started
+02:25:55 [388388] 0% Loaded updateCount: 3339
+02:25:55 [388388] 0% Can't send HTTP request, error: INTERNET_NAME_NOT_RESOLVED
+02:25:55 [392904] Client synchronization finished, status: failed
+02:25:55 [392904] * error: 无法连接到 印象笔记 服务器
+02:25:55 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+02:25:55 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+02:25:55 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+02:30:56 [393552] Client synchronization started
+02:30:56 [358684] 0% Loaded updateCount: 3339
+02:30:56 [358684] 0% Can't send HTTP request, error: INTERNET_NAME_NOT_RESOLVED
+02:30:56 [393552] Client synchronization finished, status: failed
+02:30:56 [393552] * error: 无法连接到 印象笔记 服务器
+02:30:56 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+02:30:56 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+02:30:56 [377064] GA: Failed to send event (error: 系统无法找到指定的资源。)
+02:32:09 [35736] Saved session count: 0, last session: 2017/04/10 01:15:00
+02:32:10 [35736] Closed database: C:\Users\shaoj\Evernote\Databases\654039269#app.yinxiang.com.exb (55.1 MB +44.0 KB)
+
+Log opened on 2017/04/10 11:32:53 (UTC+8:00)
+
+11:32:53 [18800] Command line: "C:\Program Files (x86)\Evernote\Evernote\Evernote.exe" 
+11:32:53 [18800] Evernote for Windows 6.5.4.4720 (304720) Public
+11:32:53 [18800] Client info: Evernote Windows/304720 (zh-CN, DDL); Windows/10.0.14393 (Win64);
+11:32:53 [18800] Common Editor: ce-1.0.29.936-develop-win (37b21f0e0ce4cb64b49ea2234d305d4f61c18559)
+11:32:53 [18800] Bootstrap info: Evernote-China,Evernote (loadedLastUsed)
+11:32:53 [18800] Registered session count: 1, last session: 2017/04/10 11:30:00
+11:32:53 [18800] Set the service host to "app.yinxiang.com"
+11:32:53 [18800] Bootstrap info: Evernote-China,Evernote (loadedDatabase)
+11:32:53 [18800] Loaded session count: 0, last session: 2017/04/10 01:15:00
+11:32:53 [18800] CInAppMessageUpSellImpl::CInAppMessageUpSellImpl: UtilityStoreClient update begin
+11:32:54 [18800] UpSell: TsdEligibility: Show:0 NewCheck:2017/04/11 11:32:54
+11:32:54 [18800] CInAppMessageUpSellImpl::CInAppMessageUpSellImpl: UtilityStoreClient update complete
+11:32:54 [19116] Sync rate configuration changed:
+11:32:54 [19116] * syncStateIntervalMillis=900000
+11:32:54 [19116] * updateNoteWhenIdleForMillis=30000
+11:32:54 [19116] * updateNoteDuringEditIntervalMillis=60000
+11:32:54 [18800] Opened database: C:\Users\shaoj\Evernote\Databases\654039269#app.yinxiang.com.exb (55.1 MB Fixed 53.9 GB free)
+11:32:54 [18800] * email: 654039269@qq.com
+11:32:54 [18800] * user: 11025798
+11:32:54 [18800] Communication Engine client handler failed to retrieve cached events from local data store
+11:32:54 [18800] Registered session count: 1, last session: 2017/04/10 11:30:00
+11:32:58 [19404] Client synchronization started
+11:32:58 [19408] 0% Loaded updateCount: 3339
+11:32:58 [19408] 0% Usage Metrics: sessionCount=1
+11:32:58 [19408] 0% SyncState: devices used: 1
+11:32:58 [19408] 0% Client is up to date with the server, updateCount: 3339
+11:32:58 [19408] 0% Updating user "654039269"
+11:32:58 [19408] 0% * email last verified 2016/10/14 09:03:01 (UTC+8:00)
+11:32:58 [19408] 0% Retrieving cross promotion info for user "654039269"
+11:32:58 [19408] 0% Updating server items
+11:32:58 [19408] 0% Creating server note "假定你说的流行小说，不是名著什么的，我写一个，我个例的事情吧。", resource count: 0, content: 6.7 KB
+11:32:58 [19408] 0% * Notebook "知乎答题", guid={c4abba6a-c0c5-49af-8d88-423d55d2c6ce}
+11:32:59 [19408] 0% * guid={5e9cee5f-e4a7-4f63-a301-e4d76ae716e0}
+11:32:59 [19408] 100% Loaded updateCount: 3339
+11:32:59 [19408] 100% Usage Metrics: sessionCount=0
+11:32:59 [19408] 100% SyncState: devices used: 1
+11:32:59 [19408] 100% Client updateCount: 3339, server updateCount: 3340
+11:32:59 [19408] 100% Retrieving list of changes from the server
+11:32:59 [19408] 0% * saved 1 sync chunks, updateCount=3340
+11:32:59 [19408] 0% Receiving account changes
+11:32:59 [19408] 0% * expunge 0 notebooks, 0 notes, 0 tags, 0 searches, 0 linked notebooks
+11:32:59 [19408] 0% * update 0 notebooks, 1 notes, 0 resources, 0 tags, 0 searches, 0 linked notebooks
+11:32:59 [19408] 0% Updating user "654039269"
+11:32:59 [19408] 0% * email last verified 2016/10/14 09:03:01 (UTC+8:00)
+11:32:59 [19408] 0% Retrieving cross promotion info for user "654039269"
+11:33:00 [19408] 0% Submitting get 1 notes task
+11:33:00 [19408] 0% Waiting for 1 sync tasks
+11:33:00 [18616] 0% Retrieving 1 note
+11:33:00 [18616] 0% Retrieving note "假定你说的流行小说，不是名著什么的，我写一个，我个例的事情吧。"
+11:33:00 [18616] 0% * guid={5e9cee5f-e4a7-4f63-a301-e4d76ae716e0}
+11:33:00 [18616] 100% Submitting 1 notes for writing
+11:33:00 [18616] 100% Waiting for 1 base writer tasks
+11:33:00 [18700] 100% Writing 1 notes
+11:33:00 [18616] 100% Waiting for 1 base writer tasks done
+11:33:00 [19408] 100% Done waiting for 1 sync tasks
+11:33:00 [19408] 100% Waiting for 1 sync tasks
+11:33:00 [19408] 100% Done waiting for 1 sync tasks
+11:33:01 [19404] Client synchronization finished, status: complete
+11:33:01 [19404] * elapsed time: 2s
+11:33:01 [19404] * 1 item sent
+11:38:01 [18072] Client synchronization started
+11:38:01 [17292] 0% Loaded updateCount: 3340
+11:38:01 [17292] 0% Usage Metrics: sessionCount=0
+11:38:01 [17292] 0% SyncState: devices used: 1
+11:38:01 [17292] 0% Client is up to date with the server, updateCount: 3340
+11:38:01 [17292] 0% Updating user "654039269"
+11:38:01 [17292] 0% * email last verified 2016/10/14 09:03:01 (UTC+8:00)
+11:38:01 [17292] 0% Retrieving cross promotion info for user "654039269"
+11:38:01 [18072] Client synchronization finished, status: complete
+11:43:01 [4552] Client synchronization started
+11:43:01 [23116] 0% Loaded updateCount: 3340
+11:43:01 [23116] 0% Usage Metrics: sessionCount=0
+11:43:01 [23116] 0% SyncState: devices used: 1
+11:43:01 [23116] 0% Client is up to date with the server, updateCount: 3340
+11:43:01 [23116] 0% Updating user "654039269"
+11:43:01 [23116] 0% * email last verified 2016/10/14 09:03:01 (UTC+8:00)
+11:43:01 [23116] 0% Retrieving cross promotion info for user "654039269"
+11:43:01 [4552] Client synchronization finished, status: complete
+11:48:01 [21388] Client synchronization started
+11:48:01 [452] 0% Loaded updateCount: 3340
+11:48:01 [452] 0% Usage Metrics: sessionCount=0
+11:48:01 [452] 0% SyncState: devices used: 1
+11:48:01 [452] 0% Client is up to date with the server, updateCount: 3340
+11:48:01 [452] 0% Updating user "654039269"
+11:48:01 [452] 0% * email last verified 2016/10/14 09:03:01 (UTC+8:00)
+11:48:01 [452] 0% Retrieving cross promotion info for user "654039269"
+11:48:02 [21388] Client synchronization finished, status: complete
+11:48:02 [21388] * elapsed time: 0s
+11:53:02 [12668] Client synchronization started
+11:53:02 [14540] 0% Loaded updateCount: 3340
+11:53:02 [14540] 0% Usage Metrics: sessionCount=0
+11:53:02 [14540] 0% SyncState: devices used: 1
+11:53:02 [14540] 0% Client is up to date with the server, updateCount: 3340
+11:53:02 [14540] 0% Updating user "654039269"
+11:53:02 [14540] 0% * email last verified 2016/10/14 09:03:01 (UTC+8:00)
+11:53:02 [14540] 0% Retrieving cross promotion info for user "654039269"
+11:53:02 [12668] Client synchronization finished, status: complete
+11:58:02 [18288] Client synchronization started
+11:58:02 [8176] 0% Loaded updateCount: 3340
+11:58:02 [8176] 0% Usage Metrics: sessionCount=0
+11:58:02 [8176] 0% SyncState: devices used: 1
+11:58:02 [8176] 0% Client is up to date with the server, updateCount: 3340
+11:58:02 [8176] 0% Updating user "654039269"
+11:58:02 [8176] 0% * email last verified 2016/10/14 09:03:01 (UTC+8:00)
+11:58:02 [8176] 0% Retrieving cross promotion info for user "654039269"
+11:58:02 [18288] Client synchronization finished, status: complete
+12:03:03 [20380] Client synchronization started
+12:03:03 [3164] 0% Loaded updateCount: 3340
+12:03:04 [3164] 0% Usage Metrics: sessionCount=0
+12:03:04 [3164] 0% SyncState: devices used: 1
+12:03:04 [3164] 0% Client is up to date with the server, updateCount: 3340
+12:03:04 [3164] 0% Updating user "654039269"
+12:03:04 [3164] 0% * email last verified 2016/10/14 09:03:01 (UTC+8:00)
+12:03:04 [3164] 0% Retrieving cross promotion info for user "654039269"
+12:03:04 [20380] Client synchronization finished, status: complete
+12:03:04 [20380] * elapsed time: 1s
+12:08:05 [24280] Client synchronization started
+12:08:05 [24272] 0% Loaded updateCount: 3340
+12:08:05 [24272] 0% Usage Metrics: sessionCount=0
+12:08:05 [24272] 0% SyncState: devices used: 1
+12:08:05 [24272] 0% Client is up to date with the server, updateCount: 3340
+12:08:05 [24272] 0% Updating user "654039269"
+12:08:05 [24272] 0% * email last verified 2016/10/14 09:03:01 (UTC+8:00)
+12:08:05 [24272] 0% Retrieving cross promotion info for user "654039269"
+12:08:05 [24280] Client synchronization finished, status: complete
+12:08:29 [18800] Saved session count: 0, last session: 2017/04/10 11:30:00
+12:08:29 [18800] Closed database: C:\Users\shaoj\Evernote\Databases\654039269#app.yinxiang.com.exb (55.1 MB +16.0 KB)
+
+Log closed on 2017/04/10 12:08:29 (UTC+8:00)
+

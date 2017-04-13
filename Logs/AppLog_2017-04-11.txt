@@ -1,0 +1,179 @@
+********
+* The Activity Log contains a detailed list of the steps the Evernote application performs,
+* as well as information about your account and your device. Your Note titles, tags,
+* Notebook names and occasionally Note content also may be included. We treat your
+* Activity Log data as confidential, and the terms of our Privacy Policy apply (http://evernote.com/privacy).
+*
+* You may remove anything you do not want to send us.
+********
+
+
+Log opened on 2017/04/11 21:27:32 (UTC+8:00)
+
+21:27:32 [57580] Command line: "C:\Program Files (x86)\Evernote\Evernote\Evernote.exe" 
+21:27:32 [57580] Evernote for Windows 6.5.4.4720 (304720) Public
+21:27:32 [57580] Client info: Evernote Windows/304720 (zh-CN, DDL); Windows/10.0.14393 (Win64);
+21:27:32 [57580] Common Editor: ce-1.0.29.936-develop-win (37b21f0e0ce4cb64b49ea2234d305d4f61c18559)
+21:27:32 [57580] Bootstrap info: Evernote-China,Evernote (loadedLastUsed)
+21:27:33 [57580] Registered session count: 1, last session: 2017/04/11 21:15:00
+21:27:33 [57580] Set the service host to "app.yinxiang.com"
+21:27:33 [57580] Bootstrap info: Evernote-China,Evernote (loadedDatabase)
+21:27:33 [57580] Loaded session count: 0, last session: 2017/04/10 11:30:00
+21:27:33 [57580] CInAppMessageUpSellImpl::CInAppMessageUpSellImpl: UtilityStoreClient update begin
+21:27:33 [57580] UpSell: TsdEligibility: Show:0 NewCheck:2017/04/12 21:27:33
+21:27:33 [57580] CInAppMessageUpSellImpl::CInAppMessageUpSellImpl: UtilityStoreClient update complete
+21:27:33 [57828] Sync rate configuration changed:
+21:27:33 [57828] * syncStateIntervalMillis=900000
+21:27:33 [57828] * updateNoteWhenIdleForMillis=30000
+21:27:33 [57828] * updateNoteDuringEditIntervalMillis=60000
+21:27:33 [57580] Opened database: C:\Users\shaoj\Evernote\Databases\654039269#app.yinxiang.com.exb (55.1 MB Fixed 50.7 GB free)
+21:27:33 [57580] * email: 654039269@qq.com
+21:27:33 [57580] * user: 11025798
+21:27:34 [57580] Communication Engine client handler failed to retrieve cached events from local data store
+21:27:34 [57580] Registered session count: 1, last session: 2017/04/11 21:15:00
+21:27:37 [58180] Client synchronization started
+21:27:37 [58184] 0% Loaded updateCount: 3340
+21:27:38 [58184] 0% Usage Metrics: sessionCount=1
+21:27:38 [58184] 0% SyncState: devices used: 1
+21:27:38 [58184] 0% Client is up to date with the server, updateCount: 3340
+21:27:38 [58184] 0% Updating user "654039269"
+21:27:38 [58184] 0% * email last verified 2016/10/14 09:03:01 (UTC+8:00)
+21:27:38 [58184] 0% Retrieving cross promotion info for user "654039269"
+21:27:38 [58180] Client synchronization finished, status: complete
+21:27:38 [58180] * elapsed time: 0s
+21:28:04 [57712] GA: Failed to send event (error: 指定资源下载失败。)
+21:28:04 [57712] GA: Failed to send event (error: 指定资源下载失败。)
+21:28:04 [57712] GA: Failed to send event (error: 指定资源下载失败。)
+21:28:04 [57712] GA: Failed to send event (error: 指定资源下载失败。)
+21:28:47 [57580] Could not locate dictionary file: C:\Program Files (x86)\Evernote\Evernote\Dict\zh-CN.dic
+21:28:51 [57712] GA: Failed to send event (error: 指定资源下载失败。)
+21:29:35 [60144] Received status code 200 when accessing URL https://update.evernote.com/public/ENWin6/ReleaseNotes_6.5.4.4720_zh-CN.html
+21:32:38 [60836] Client synchronization started
+21:32:38 [60896] 0% Loaded updateCount: 3340
+21:32:38 [60896] 0% Usage Metrics: sessionCount=0
+21:32:38 [60896] 0% SyncState: devices used: 1
+21:32:38 [60896] 0% Client is up to date with the server, updateCount: 3340
+21:32:38 [60896] 0% Updating user "654039269"
+21:32:38 [60896] 0% * email last verified 2016/10/14 09:03:01 (UTC+8:00)
+21:32:39 [60896] 0% Retrieving cross promotion info for user "654039269"
+21:32:39 [60896] 0% Updating server items
+21:32:39 [60896] 0% Creating server note "lalaland影评", resource count: 0, content: 262 B
+21:32:39 [60896] 0% * Notebook "知乎答题", guid={c4abba6a-c0c5-49af-8d88-423d55d2c6ce}
+21:32:39 [60896] 0% * guid={4ebd0a25-15f7-42eb-855d-24bba6c2f1c8}
+21:32:39 [60896] 100% Loaded updateCount: 3340
+21:32:39 [60896] 100% Usage Metrics: sessionCount=0
+21:32:39 [60896] 100% SyncState: devices used: 1
+21:32:39 [60896] 100% Client updateCount: 3340, server updateCount: 3341
+21:32:39 [60896] 100% Retrieving list of changes from the server
+21:32:39 [60896] 0% * saved 1 sync chunks, updateCount=3341
+21:32:39 [60896] 0% Receiving account changes
+21:32:39 [60896] 0% * expunge 0 notebooks, 0 notes, 0 tags, 0 searches, 0 linked notebooks
+21:32:39 [60896] 0% * update 0 notebooks, 1 notes, 0 resources, 0 tags, 0 searches, 0 linked notebooks
+21:32:39 [60896] 0% Updating user "654039269"
+21:32:39 [60896] 0% * email last verified 2016/10/14 09:03:01 (UTC+8:00)
+21:32:39 [60896] 0% Retrieving cross promotion info for user "654039269"
+21:32:39 [60896] 0% Submitting get 1 notes task
+21:32:39 [60896] 0% Waiting for 1 sync tasks
+21:32:39 [61076] 0% Retrieving 1 note
+21:32:39 [61076] 0% Retrieving note "lalaland影评"
+21:32:39 [61076] 0% * guid={4ebd0a25-15f7-42eb-855d-24bba6c2f1c8}
+21:32:39 [61076] 100% Submitting 1 notes for writing
+21:32:39 [61076] 100% Waiting for 1 base writer tasks
+21:32:39 [61308] 100% Writing 1 notes
+21:32:39 [61076] 100% Waiting for 1 base writer tasks done
+21:32:39 [60896] 100% Done waiting for 1 sync tasks
+21:32:39 [60896] 100% Waiting for 1 sync tasks
+21:32:39 [60896] 100% Done waiting for 1 sync tasks
+21:32:39 [60836] Client synchronization finished, status: complete
+21:32:39 [60836] * elapsed time: 1s
+21:32:39 [60836] * 1 item sent
+21:37:39 [62484] Client synchronization started
+21:37:39 [63484] 0% Loaded updateCount: 3341
+21:37:40 [63484] 0% Usage Metrics: sessionCount=0
+21:37:40 [63484] 0% SyncState: devices used: 1
+21:37:40 [63484] 0% Client is up to date with the server, updateCount: 3341
+21:37:40 [63484] 0% Updating user "654039269"
+21:37:40 [63484] 0% * email last verified 2016/10/14 09:03:01 (UTC+8:00)
+21:37:40 [63484] 0% Retrieving cross promotion info for user "654039269"
+21:37:41 [62484] Client synchronization finished, status: complete
+21:37:41 [62484] * elapsed time: 1s
+21:42:42 [66324] Client synchronization started
+21:42:42 [66332] 0% Loaded updateCount: 3341
+21:42:42 [66332] 0% Usage Metrics: sessionCount=0
+21:42:42 [66332] 0% SyncState: devices used: 1
+21:42:42 [66332] 0% Client is up to date with the server, updateCount: 3341
+21:42:42 [66332] 0% Updating user "654039269"
+21:42:42 [66332] 0% * email last verified 2016/10/14 09:03:01 (UTC+8:00)
+21:42:42 [66332] 0% Retrieving cross promotion info for user "654039269"
+21:42:42 [66324] Client synchronization finished, status: complete
+21:47:42 [68576] Client synchronization started
+21:47:42 [68580] 0% Loaded updateCount: 3341
+21:47:42 [68580] 0% Usage Metrics: sessionCount=0
+21:47:42 [68580] 0% SyncState: devices used: 1
+21:47:42 [68580] 0% Client is up to date with the server, updateCount: 3341
+21:47:42 [68580] 0% Updating user "654039269"
+21:47:42 [68580] 0% * email last verified 2016/10/14 09:03:01 (UTC+8:00)
+21:47:42 [68580] 0% Retrieving cross promotion info for user "654039269"
+21:47:42 [68576] Client synchronization finished, status: complete
+21:52:43 [69940] Client synchronization started
+21:52:43 [69944] 0% Loaded updateCount: 3341
+21:52:43 [69944] 0% Usage Metrics: sessionCount=0
+21:52:43 [69944] 0% SyncState: devices used: 1
+21:52:43 [69944] 0% Client is up to date with the server, updateCount: 3341
+21:52:43 [69944] 0% Updating user "654039269"
+21:52:43 [69944] 0% * email last verified 2016/10/14 09:03:01 (UTC+8:00)
+21:52:43 [69944] 0% Retrieving cross promotion info for user "654039269"
+21:52:43 [69940] Client synchronization finished, status: complete
+21:57:43 [71944] Client synchronization started
+21:57:43 [67656] 0% Loaded updateCount: 3341
+21:57:43 [67656] 0% Usage Metrics: sessionCount=0
+21:57:43 [67656] 0% SyncState: devices used: 1
+21:57:43 [67656] 0% Client is up to date with the server, updateCount: 3341
+21:57:43 [67656] 0% Updating user "654039269"
+21:57:43 [67656] 0% * email last verified 2016/10/14 09:03:01 (UTC+8:00)
+21:57:43 [67656] 0% Retrieving cross promotion info for user "654039269"
+21:57:43 [71944] Client synchronization finished, status: complete
+22:02:43 [74716] Client synchronization started
+22:02:43 [74132] 0% Loaded updateCount: 3341
+22:02:44 [74132] 0% Usage Metrics: sessionCount=0
+22:02:44 [74132] 0% SyncState: devices used: 1
+22:02:44 [74132] 0% Client is up to date with the server, updateCount: 3341
+22:02:44 [74132] 0% Updating user "654039269"
+22:02:44 [74132] 0% * email last verified 2016/10/14 09:03:01 (UTC+8:00)
+22:02:44 [74132] 0% Retrieving cross promotion info for user "654039269"
+22:02:44 [74716] Client synchronization finished, status: complete
+22:02:44 [74716] * elapsed time: 0s
+22:07:44 [76616] Client synchronization started
+22:07:44 [76612] 0% Loaded updateCount: 3341
+22:07:44 [76612] 0% Usage Metrics: sessionCount=0
+22:07:44 [76612] 0% SyncState: devices used: 1
+22:07:44 [76612] 0% Client is up to date with the server, updateCount: 3341
+22:07:44 [76612] 0% Updating user "654039269"
+22:07:44 [76612] 0% * email last verified 2016/10/14 09:03:01 (UTC+8:00)
+22:07:44 [76612] 0% Retrieving cross promotion info for user "654039269"
+22:07:44 [76616] Client synchronization finished, status: complete
+22:12:44 [77356] Client synchronization started
+22:12:44 [77308] 0% Loaded updateCount: 3341
+22:12:44 [77308] 0% Usage Metrics: sessionCount=0
+22:12:44 [77308] 0% SyncState: devices used: 1
+22:12:44 [77308] 0% Client is up to date with the server, updateCount: 3341
+22:12:44 [77308] 0% Updating user "654039269"
+22:12:44 [77308] 0% * email last verified 2016/10/14 09:03:01 (UTC+8:00)
+22:12:44 [77308] 0% Retrieving cross promotion info for user "654039269"
+22:12:46 [77356] Client synchronization finished, status: complete
+22:12:46 [77356] * elapsed time: 1s
+22:17:46 [77980] Client synchronization started
+22:17:46 [79408] 0% Loaded updateCount: 3341
+22:17:46 [79408] 0% Usage Metrics: sessionCount=0
+22:17:46 [79408] 0% SyncState: devices used: 1
+22:17:46 [79408] 0% Client is up to date with the server, updateCount: 3341
+22:17:46 [79408] 0% Updating user "654039269"
+22:17:46 [79408] 0% * email last verified 2016/10/14 09:03:01 (UTC+8:00)
+22:17:46 [79408] 0% Retrieving cross promotion info for user "654039269"
+22:17:46 [77980] Client synchronization finished, status: complete
+22:19:47 [57580] Registered session count: 1, last session: 2017/04/11 22:15:00
+22:19:53 [57580] Saved session count: 1, last session: 2017/04/11 22:15:00
+22:19:53 [57580] Closed database: C:\Users\shaoj\Evernote\Databases\654039269#app.yinxiang.com.exb (55.1 MB -16.0 KB)
+
+Log closed on 2017/04/11 22:20:14 (UTC+8:00)
+
